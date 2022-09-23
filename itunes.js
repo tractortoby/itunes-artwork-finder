@@ -1,4 +1,4 @@
-var apiURL = 'https://example.com/api.php'; // replace with the url to the api.php file
+var apiURL = 'https://itunes-artwork-finder-jgh6.vercel.app/api.php'; // replace with the url to the api.php file
 
 var countries = {
     ae: 'United Arab Emirates',
